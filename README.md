@@ -1,6 +1,7 @@
 # Replacing my home ISP router with a virtualized pfSense on Proxmox
 
-<img width="3840" height="2160" alt="labeling" src="https://github.com/user-attachments/assets/06eec926-97cf-4b33-a710-5922bc457667" />
+<img width="3840" height="2160" alt="thumbnail_final" src="https://github.com/user-attachments/assets/2998897f-2e6e-419e-a00c-8b1b562b5bf5" />
+
 
 🎥 YouTube videos:
 - [Installing proxmox on mini PC and seetting it up for the first time](https://www.youtube.com/watch?v=EQ38efBdF2E)
