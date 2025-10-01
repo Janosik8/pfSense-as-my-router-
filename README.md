@@ -1,6 +1,8 @@
 # Replacing my home ISP router with a virtualized pfSense on Proxmox
 
-🎥 YouTube video: [Replacing my home ISP router with pfSense on Proxmox](https://youtu.be/XMvGP2p5xaQ?si=pias_CDBmiZ3KQI5)
+🎥 YouTube videos:
+- [Installing proxmox on mini PC and seetting it up for the first time](https://www.youtube.com/watch?v=EQ38efBdF2E)
+- [Replacing my home ISP router with pfSense on Proxmox](https://youtu.be/XMvGP2p5xaQ?si=pias_CDBmiZ3KQI5)
 
 ---
 ## 📖 Overview
