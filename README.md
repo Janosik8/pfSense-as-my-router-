@@ -1,5 +1,7 @@
 # Replacing my home ISP router with a virtualized pfSense on Proxmox
 
+<img width="3840" height="2160" alt="labeling" src="https://github.com/user-attachments/assets/06eec926-97cf-4b33-a710-5922bc457667" />
+
 🎥 YouTube videos:
 - [Installing proxmox on mini PC and seetting it up for the first time](https://www.youtube.com/watch?v=EQ38efBdF2E)
 - [Replacing my home ISP router with pfSense on Proxmox](https://youtu.be/XMvGP2p5xaQ?si=pias_CDBmiZ3KQI5)
@@ -26,6 +28,10 @@ Proxmox connects to the internet through pfSense, and a dedicated LAN NIC provid
 
 **Step 6** – Configuring a virtual interface for Proxmox, so I can access it directly when plugged into the LAN port.  
 ![final](https://github.com/user-attachments/assets/c67d1cf7-f107-4ddc-96e6-90a736f00c02)  
+
+**Final Result** --> I have full controll over my network and the performance is great, I can not be better.
+<img width="729" height="339" alt="speedtest_beforesnort" src="https://github.com/user-attachments/assets/543a7fb4-a7da-4b5c-9738-d2f219401fa2" />
+
 
 ---
 All of these steps are explained in more detail in my YouTube video. 🙂
